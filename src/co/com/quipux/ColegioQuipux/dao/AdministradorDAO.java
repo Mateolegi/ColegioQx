@@ -17,5 +17,6 @@ public interface AdministradorDAO {
     public boolean registrarAdministrador(AdministradorEntity admin);
     
     public int getCodigoAdministrador();
+   
     
 }
