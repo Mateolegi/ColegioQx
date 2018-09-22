@@ -21,6 +21,11 @@ import java.sql.Statement;
  */
 public class AdministradorDaoImpl implements AdministradorDAO{
 
+    /**
+     * Implementación registro de administracion
+     * @param admin
+     * @return 
+     */
     @Override
     public boolean registrarAdministrador(AdministradorEntity admin) {
         boolean validacion =false;

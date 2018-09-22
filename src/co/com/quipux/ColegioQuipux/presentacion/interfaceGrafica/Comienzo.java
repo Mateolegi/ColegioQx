@@ -11,8 +11,23 @@ import javax.swing.JFrame;
  */
 public class Comienzo {
 
-    /**
+    /**brandon estubo aqui
      * @param args the command line arguments
+     * kasflasmfklaslfsa{,asñg,aslgasñ+g
+     * asgsa
+     * g
+     * as
+     * gas
+     * g
+     * as
+     * g
+     * as
+     * gasg
+     * as
+     * g
+     * as
+     * g
+     * asg
      */
     public static void main(String[] args) {
         Dimension pantalla = Toolkit.getDefaultToolkit().getScreenSize();
