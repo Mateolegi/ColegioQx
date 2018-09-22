@@ -10,6 +10,7 @@ import co.com.quipux.ColegioQuipux.models.entity.AdministradorEntity;
 /**
  *
  * @author Sebas
+ * implementeacion
  */
 public interface AdministradorDAO {
     
