@@ -22,5 +22,9 @@ public interface EstudianteDAO {
     //public void registrarEgresoEstudiante();
     //public void registrarRetiroEstudiante();
     //public void registrarGraduacionEstudiante();
+ 
+    
+    //hola sebastian
+    //que pereza hacer esto, tengo sueño y hambre
     
 }
