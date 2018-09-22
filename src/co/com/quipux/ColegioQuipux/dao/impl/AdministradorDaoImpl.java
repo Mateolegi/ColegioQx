@@ -68,6 +68,10 @@ public class AdministradorDaoImpl implements AdministradorDAO{
         return validacion;
     }
 
+    /**
+     * Obtiene el código del administrador
+     * @return 
+     */
     @Override
     public int getCodigoAdministrador() {
         int Codigo=0;
