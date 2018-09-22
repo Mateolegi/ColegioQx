@@ -15,8 +15,9 @@ import javax.swing.JPasswordField;
 
 /**
  *
- * @author Jhon Sebastian Agudelo Sierra
+ * @author The nn estuvo aqui 
  * Correo: Sebastamriel@gmail.com
+ * @version :3 . 03 . 30
  */
 public class JPasswordFieldHint extends JPasswordField implements FocusListener{
     private final Font fontLost = new Font("Lato", Font.BOLD, 17);
