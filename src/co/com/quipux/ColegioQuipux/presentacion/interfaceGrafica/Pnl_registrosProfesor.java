@@ -27,7 +27,7 @@ import javax.swing.JPanel;
 
 /**
  *
- * vamo a pasa esta joda manito queloquemaniga
+ * vamo a pasa esta joda manito queloquemaniga.
  */
 public class Pnl_registrosProfesor extends JPanel implements ActionListener{
     protected Control_Instancias pp;
