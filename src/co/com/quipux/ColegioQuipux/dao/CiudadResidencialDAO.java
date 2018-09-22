@@ -14,6 +14,14 @@ import java.util.ArrayList;
  */
 public interface CiudadResidencialDAO {
     
+    /***
+     * HOLA
+     * ESTE
+     * ES MI
+     * CAMBIOOOOO
+     * ATT: ADRIAN
+     */
+    
     public void registrarCiudadResidencial(CiudadResidencialEntity ciudadResidencial);
     
     public ArrayList<CiudadResidencialEntity> getNombresCiudadResidencial();
