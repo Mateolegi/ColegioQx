@@ -13,7 +13,9 @@ import java.util.ArrayList;
  * @author Sebas
  */
 public interface EstudianteManager {
-    
+    /*
+    Guarda los datos de los estudiantes
+    */
     public EstudianteDTO llenarDatosGradoMateriaDTO();
     
     /*Consulta los grados cursados por campos o directamente todos para eso se usa
